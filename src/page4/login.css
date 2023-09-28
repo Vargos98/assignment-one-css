@@ -1,0 +1,58 @@
+.underline{
+    border: 1px solid lightgray;
+    
+}
+
+.login{
+    margin: 50px auto;
+    width:300px;
+    text-align: center;
+}
+.input-area{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 15px 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+.logo{
+    width: 20rem;
+    
+}
+.title-logo{
+    margin-left: 10px;
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
+.btn-login{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 14px 30px;
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 50px;
+}
+.login-para{
+    font-size: 16px;
+    margin-left: 5px;
+    margin-top: 40px;
+}
+span{
+    color: black;
+    font-size: 16px;
+    text-decoration: underline;
+    
+}
+
+.footer{
+    font-size: 12px;
+}
+.footer-span{
+    font-size: 12px;
+    color: gray;
+}
