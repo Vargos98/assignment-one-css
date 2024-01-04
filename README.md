@@ -1,3 +1,14 @@
+Live link: https://assignment-one-css.vercel.app/
+
+![1](https://github.com/Vargos98/assignment-one-css/assets/127929058/9835f82c-f34b-4ca3-b727-38a2c0c936ac)
+![2](https://github.com/Vargos98/assignment-one-css/assets/127929058/20ae6755-2194-4fe9-aa77-9eac43fb31a4)
+![3](https://github.com/Vargos98/assignment-one-css/assets/127929058/a0a30b83-7e15-4d99-8335-d07bbbaf8fc5)
+![4](https://github.com/Vargos98/assignment-one-css/assets/127929058/960b0e82-3408-4631-9fe8-6464546aa1cc)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
